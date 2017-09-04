@@ -3,5 +3,5 @@ I'm currently a third year student at Lehigh University in Bethlehem, PA.  My ma
 ![filmmaker picture](https://larrygoodell.files.wordpress.com/2013/11/carl-christensen-as-filmaker-1974.jpg)
 
 ## Lehigh University Undergraduate Residence Infographic 2016 
-Are the majority of Lehigh Students living on-campus or off? When living on campus, are they residing in residence halls or fraternity and sorority houses? Look below to find out where students are chossing to live!
-![residence](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/Where%20are%20lehigh%20students%20living-.png?raw=true)
+If you ask most people on Lehigh's campus, they will tell you that "almost everybody at this school is in a frat or sorority."  Is this really true? Are most students living in fraternities and sororities? Check out the infographic below to learn more!
+![residence](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/greeklife.png?raw=true)
