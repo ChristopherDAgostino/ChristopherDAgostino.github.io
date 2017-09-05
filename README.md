@@ -5,3 +5,7 @@ I'm currently a third year student at Lehigh University in Bethlehem, PA.  My ma
 ## Lehigh University Undergraduate Residence Infographic 2016 
 If you ask most people on Lehigh's campus, they will tell you that "almost everybody at this school is in a frat or sorority."  Is this really true? Are most students living in fraternities and sororities? Check out the infographic below to learn more!
 ![residence](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/greeklife.png?raw=true)
+
+## Do College Grads Have Jobs Related to What They Studied at School?
+After college, graduates step into the real world and begin their careers but, are they using their majors or degrees to get a job? Or is it simply the name of the university they attended that got them there? Do young adults even need a college education to find work? Check out the infographic below to learn more!
+![grads](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/ARE%20COLLEGE%20GRADS%20FOLLOWING%20THROUGH%20WITH%20WHAT%20THEY'VE%20BEEN%20STUDYING-.png?raw=true)
