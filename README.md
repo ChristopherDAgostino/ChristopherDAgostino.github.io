@@ -12,10 +12,6 @@ After college, graduates step into the real world and begin their careers but, a
 ![grads](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/ARE%20COLLEGE%20GRADS%20FOLLOWING%20THROUGH%20WITH%20WHAT%20THEY'VE%20BEEN%20STUDYING-.png?raw=true)
 
 
-## Rio 2016 Summer Olympics Timeline
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=10r_4TnvNdyk50qB6aNspvaFI_AP2PIk72y8XMx3WrCc&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
-
 ## Hurricane Harvey: From Forecast to Devastation
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kckmjTLhnkL2S6WKpsvbrwoodquQe3DH32Ck1V1ubDA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
