@@ -18,3 +18,6 @@ After college, graduates step into the real world and begin their careers but, a
 
 ## Hurricane Harvey: From Forecast to Devastation
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kckmjTLhnkL2S6WKpsvbrwoodquQe3DH32Ck1V1ubDA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Lehigh University Undergraduate Enrollment 2016
+![enrollment](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_2016_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
