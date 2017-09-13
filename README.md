@@ -18,3 +18,5 @@ After college, graduates step into the real world and begin their careers but, a
 
 ## Lehigh University Undergraduate Enrollment 2016
 ![enrollment](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_2016_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
+## Lehigh University Undergraduate Enrollment 2006-2016
