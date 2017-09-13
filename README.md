@@ -1,11 +1,12 @@
 ## About Me
 I'm currently a third year student at Lehigh University in Bethlehem, PA.  My main focus of study is Journalism and Marketing Communications.  While this is my main area of study, I have always had a passion for filming and editing videos.  I hope to incorporate my passion into my professional career.
-
 ![filmmaker picture](https://larrygoodell.files.wordpress.com/2013/11/carl-christensen-as-filmaker-1974.jpg)
+
 
 ## Lehigh University Undergraduate Residence Infographic 2016 
 If you ask most people on Lehigh's campus, they will tell you that "almost everybody at this school is in a frat or sorority."  Is this really true? Are most students living in fraternities and sororities? Check out the infographic below to learn more!
 ![residence](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/greeklife.png?raw=true)
+
 
 ## Do College Grads Have Jobs Related to What They Studied at School?
 After college, graduates step into the real world and begin their careers but, are they using their majors or degrees to get a job? Or is it simply the name of the university they attended that got them there? Do young adults even need a college education to find work? Data from the Wall Street Journal shows that college grads in 2013 gravitated to jobs that didn't even require a major or degree.  Check out the infographic below to learn more!
@@ -18,6 +19,7 @@ After college, graduates step into the real world and begin their careers but, a
 
 ## Lehigh University Undergraduate Enrollment 2016
 ![enrollment](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_2016_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
 
 ## Lehigh University Undergraduate Enrollment 2006-2016
 ![enrollment2](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_2006-2016_Arts_&_Sciences_Business_&_Economics_Engineering_&_Appl._Sci._chartbuilder.png?raw=true)
