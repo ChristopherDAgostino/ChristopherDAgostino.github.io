@@ -31,3 +31,8 @@ After college, graduates step into the real world and begin their careers but, a
 Underage drinking has always been a problem in the United States ever since the drinking age was raised to 21 years old in 1984.  In the past 10 years, data shows that the amount of students drinking under the age of 21 has actaully been decreasing.  Check out the chart below to see how underage drinking has been declining and what kind of students are drinking the most (high school or college).
 
 ![underage](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/Underage_Drinking_in_High_School_and_College_2006-2016_8th_Graders_10th_Graders_12th_Graders_College_Students_chartbuilder.png?raw=true)
+
+
+## Map of Arts Centers in Bethlehem, PA
+Below is a map showing the various arts centers in Bethlehem, PA around Lehigh University.
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1pJeOzBigRN_KNTBYHA32rylBh7qKBW4K2PtxtzGv&amp;viz=MAP&amp;h=false&amp;lat=40.61059100943026&amp;lng=-75.37518917540892&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
