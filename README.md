@@ -28,3 +28,8 @@ Underage drinking has always been a problem in the United States ever since the 
 ## Map of Arts Centers in Bethlehem, PA
 Below is a map showing the various arts centers in Bethlehem, PA around Lehigh University.
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1pJeOzBigRN_KNTBYHA32rylBh7qKBW4K2PtxtzGv&amp;viz=MAP&amp;h=false&amp;lat=40.61059100943026&amp;lng=-75.37518917540892&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+
+## Popular Tourist Locations in Barcelona, Spain
+Below is a map showing the popular tourist locations in Barcelona, Spain.  These 5 locations show where the best locations are to witness the culture and history of Barcelona.
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1VSFHtZiMk-st6Uknu-3oW7brAyV8USgd1-Gfdkp0&amp;viz=MAP&amp;h=false&amp;lat=41.39028483726336&amp;lng=2.1483550827881572&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
