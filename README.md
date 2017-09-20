@@ -19,14 +19,6 @@ After college, graduates step into the real world and begin their careers but, a
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kckmjTLhnkL2S6WKpsvbrwoodquQe3DH32Ck1V1ubDA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
-## Lehigh University Undergraduate Enrollment 2016
-![enrollment](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_2016_2016_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
-
-
-## Lehigh University Undergraduate Enrollment 2006-2016
-![enrollment2](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/Lehigh_University_Undergraduate_Enrollment_2006-2016_Arts_&_Sciences_Business_&_Economics_Engineering_&_Appl._Sci._chartbuilder.png?raw=true)
-
-
 ## Has Underage Drinking Declined in the Past 10 Years?
 Underage drinking has always been a problem in the United States ever since the drinking age was raised to 21 years old in 1984.  In the past 10 years, data shows that the amount of students drinking under the age of 21 has actaully been decreasing.  Check out the chart below to see how underage drinking has been declining and what kind of students are drinking the most (high school or college).
 
