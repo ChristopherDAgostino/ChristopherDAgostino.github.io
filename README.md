@@ -32,5 +32,5 @@ Below is a map showing the various arts centers in Bethlehem, PA around Lehigh U
 
 
 ## Popular Tourist Locations in Barcelona, Spain
-Because I plan to study abroad in Barcelona in Spring of 2018, I thought it'd be interesting to explore the top ladnrmarks in Barcelona that every tourist must uncover.  Below, I've provided a map showing the popular tourist locations in Barcelona, Spain.  These 5 locations show where the best locations are to witness the culture and history of Barcelona.
+Because I plan to study abroad in Barcelona in Spring of 2018, I thought it'd be interesting to explore the top ladnrmarks in Barcelona that every tourist must uncover.  Below, I've provided a map showing the popular tourist locations in Barcelona, Spain.  These 5 locations show where the best locations are to witness the culture and history of Barcelona.  Explore the map and click on the red markers to see information on Barcelona's hottest tourist attractions!
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1VSFHtZiMk-st6Uknu-3oW7brAyV8USgd1-Gfdkp0&amp;viz=MAP&amp;h=false&amp;lat=41.39028483726336&amp;lng=2.1483550827881572&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
