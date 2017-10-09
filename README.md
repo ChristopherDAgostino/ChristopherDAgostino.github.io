@@ -12,7 +12,7 @@ If you ask most people on Lehigh's campus, they will tell you that "almost every
 ## Do College Grads Have Jobs Related to What They Studied at School?
 After college, graduates step into the real world and begin their careers but, are they using their majors or degrees to get a job? Or is it simply the name of the university they attended that got them there? Do young adults even need a college education to find work? Data from the Wall Street Journal shows that college grads in 2013 gravitated to jobs that didn't even require a major or degree.  Check out the infographic below to learn more!
 
-![gradss](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/DAT%20NEW%20NEW.png?raw=true)
+![gradsss](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/asfdsafsdf.png?raw=true)
 
 
 ## Hurricane Harvey: From Forecast to Devastation
