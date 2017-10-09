@@ -3,12 +3,6 @@ I'm currently a third year student at Lehigh University in Bethlehem, PA.  My ma
 ![filmmaker picture](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/1898087_10209179169895552_2265201179805825551_n.jpg?raw=true)
 
 
-## Lehigh University Undergraduate Residence Infographic 2016 
-If you ask most people on Lehigh's campus, they will tell you that "almost everybody at this school is in a frat or sorority."  Is this really true? Are most students living in fraternities and sororities? Check out the infographic below to learn more!
-
-![residence](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/greeklife.png?raw=true)
-
-
 ## Do College Grads Have Jobs Related to What They Studied at School?
 After college, graduates step into the real world and begin their careers but, are they using their majors or degrees to get a job? Or is it simply the name of the university they attended that got them there? Do young adults even need a college education to find work? Data from the Wall Street Journal shows that college grads in 2013 gravitated to jobs that didn't even require a major or degree.  Check out the infographic below to learn more!
 
