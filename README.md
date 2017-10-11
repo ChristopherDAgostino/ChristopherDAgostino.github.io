@@ -1,5 +1,5 @@
 ## About Me
-I'm currently a third year student at Lehigh University in Bethlehem, PA.  My main focus of study is Journalism and Marketing Communications.  While this is my main area of study, I have always had a passion for filming and editing videos.  I hope to incorporate my passion into my professional career.
+I'm currently a third year student at Lehigh University in Bethlehem, PA.  My main focus of study is Journalism and Marketing Communications, I have always had a passion for filming and editing videos.  I hope to incorporate my passion into my professional career.
 ![filmmaker picture](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/1898087_10209179169895552_2265201179805825551_n.jpg?raw=true)
 
 
@@ -18,7 +18,7 @@ After college, graduates step into the real world and begin their careers but, a
 
 
 ## Has Underage Drinking Declined in the Past 10 Years?
-Underage drinking has always been a problem in the United States ever since the drinking age was raised to 21 years old in 1984.  In the past 10 years, data shows that the amount of students drinking under the age of 21 has actaully been decreasing.  Check out the chart below to see how underage drinking has been declining and what kind of students are drinking the most (high school or college).
+Underage drinking has always been a problem in the United States ever since the drinking age was raised to 21 years old in 1984.  In the past 10 years, data shows that the amount of students drinking under the age of 21 has actaully been decreasing in all ages except for college.  In the past 4 years, there has actually been no change in the amount of underage college students drinking.  Check out the chart below to see how underage drinking has been declining and what kind of students are drinking the most (high school or college).
 
 ![underage](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/Underage_Drinking_in_High_School_and_College_2006-2016_8th_Graders_10th_Graders_12th_Graders_College_Students_chartbuilder.png?raw=true)
 
