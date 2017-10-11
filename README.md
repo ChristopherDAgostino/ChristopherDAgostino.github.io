@@ -14,6 +14,7 @@ After college, graduates step into the real world and begin their careers but, a
 
 
 ## Hurricane Harvey: From Forecast to Devastation
+In August 2017, Hurricane Harvey becamse the first major hurricane to make landfall in the United States since Wilma in 2005.  In just a four-day period, many areas received more than 40 inches of rain, causing catastrophic flooding.  This devastating events consumed headlines for weeks, acting as the start of a line of storms that would go on to hit areas such as Florid and Puerto Rico.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kckmjTLhnkL2S6WKpsvbrwoodquQe3DH32Ck1V1ubDA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 
