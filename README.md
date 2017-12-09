@@ -1,8 +1,3 @@
-## About Me
-I'm currently a third year student at Lehigh University in Bethlehem, PA.  My main focus of study is Journalism and Marketing Communications, I have always had a passion for filming and editing videos.  I hope to incorporate my passion into my professional career.
-![filmmaker picture](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/1898087_10209179169895552_2265201179805825551_n.jpg?raw=true)
-
-
 ## Comic Strip
 ![comic](https://github.com/ChristopherDAgostino/ChristopherDAgostino.github.io/blob/master/COMIC.png?raw=true)
 
